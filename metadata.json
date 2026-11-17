@@ -1,0 +1,6 @@
+{
+  "name": "Vastra Innovations",
+  "description": "Discover. Source. Create. A B2B fabric sourcing marketplace prototype connecting Indian textile mills with apparel brands, boutique owners, and garment manufacturers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
